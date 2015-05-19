@@ -30,7 +30,7 @@ describe('Animal', function(){
   });
 
    describe('#wakeUp', function(){
-    it('should initially be manufacturer', function(){
+    it('should change state to awake", function(){
 
     });
   });
