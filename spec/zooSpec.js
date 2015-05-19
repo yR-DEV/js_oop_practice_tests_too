@@ -24,11 +24,6 @@ describe('Zoo', function(){
     });
   });
 
-  describe('#previousOwners', function(){
-    it('should be able to open up', function(){
-
-    });
-  });
 
   describe('#isOpen', function(){
     it('should see if the zoo is open', function(){
