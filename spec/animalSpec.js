@@ -12,7 +12,7 @@ describe('Animal', function(){
     it('should oink if it is a pig', function(){
 
     });
-    it('should not oink if it is not pit', function(){
+    it('should not oink if it is not pig', function(){
 
     });
   });
