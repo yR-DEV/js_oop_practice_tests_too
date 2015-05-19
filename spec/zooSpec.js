@@ -19,7 +19,7 @@ describe('Zoo', function(){
   });
 
   describe('#open', function(){
-    it('should initially be closed', function(){
+    it('should change status to open', function(){
 
     });
   });
