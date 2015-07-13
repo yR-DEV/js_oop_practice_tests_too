@@ -12,5 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jasmine": "^2.3.1"
   }
 }
