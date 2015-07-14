@@ -25,6 +25,7 @@ Animal.prototype.awake = function() {
 Animal.prototype.wakeUp = function() {
   this.awake = "awake";
   return this.awake;
+  //awake....?
 };
 
 Animal.prototype.sleep = function() {
