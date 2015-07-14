@@ -16,6 +16,7 @@ describe('Zoo', function(){
     it('should change locations', function(){
       zoo.changeLocation("Oz");
       expect(zoo.location).toEqual("Oz");
+      ///bleh
     });
   });
 
