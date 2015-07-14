@@ -34,6 +34,7 @@ Animal.prototype.sleep = function() {
 };
 
 Animal.prototype.feed = function() {
+  //awake?!
   if(this.awake === "awake") {
     this.feed = "fed";
   } else {
