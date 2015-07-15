@@ -31,6 +31,7 @@ Animal.prototype.wakeUp = function() {
 Animal.prototype.sleep = function() {
   this.sleeping = "sleeping";
   return this.sleeping;
+  //sleeping.... I dont like how this is set up
 };
 
 Animal.prototype.feed = function() {
